@@ -53,7 +53,7 @@ This project was undertaken to reduce a common *'procrastination point'* within 
 
 #### View the code here: [Cabinet Notifications Setup](https://github.com/HJR41/VisualBasic/blob/main/Cabinet_Notifications_Setup.vba)
 
-The script was one of a series of streamlining projects undertaken to reduce repetitive work tasks for users. Accessing templates that are *hard-coded* into the project to seamlessly transfer data from one Spreadsheet type database to another, reducing a previously longwinded, yet easy tasks into a 1-click solution.
+This script was one of a series of streamlining projects undertaken to reduce repetitive work tasks for users. Accessing templates that are *hard-coded* into the project to seamlessly transfer data from one Spreadsheet type database to another, reducing a previously longwinded, yet easy tasks into a 1-click solution.
 
 ```vb
    ' Loop through the rows starting from F16 to F135
