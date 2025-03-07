@@ -1,5 +1,5 @@
 # Overview
-Visual Basics projects are two of my recent projects undertaken at BDS Global to remove repetative tasks, increase accuracy & reduce time for completion. 
+These Visual Basic projects are two of my recent projects undertaken at BDS Global to remove repetative tasks, increase accuracy & reduce time for completion. 
 
 ## 1. Automatic Distribution Labels - Creating an Excel-AutoCAD Interoperable Data Pathway
 This project is one that I am most proud of due to the huge reduction in task completion time & accuracy. Taking user input data from a complex Spreadsheet type database, where the data is transformed and manipulated for a vast array of use cases. 
