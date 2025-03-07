@@ -2,7 +2,7 @@
 Visual Basics projects are two of my recent projects undertaken at BDS Global to remove repetative tasks, increase accuracy & reduce time for completion. 
 
 ## 1. Automatic Distribution Labels - Creating an Excel-AutoCAD Interoperable Data Pathway
-This project is one that I am most proud of due to the huge reduction in task completion time & accuracy. Taking user input data from a complex Spreadsheet type database developed by a collegue, where the data is transformed and manipulated for a vast array of use cases. 
+This project is one that I am most proud of due to the huge reduction in taskcompletion time & accuracy. Taking user input data from a complex Spreadsheet type database, where the data is transformed and manipulated for a vast array of use cases. 
 
 ### One such usecase is the AutoDistLabels script
 
@@ -44,7 +44,7 @@ Since undertaking this project, I have furthered my understanding with scripting
 
 For example, the concept *Do Not Repeat Yourself*.
 
-Within the AutoDist Label script I repeat multiple lines of code to set columns for different variables that were required for referencing. I could improve script efficiency by not repeating myself & setting columns to reference within a for next loop.
+Within the AutoDist Label script I repeat multiple lines of code to set columns for different variables that were required for referencing. I could improve script efficiency by not repeating myself & setting columns to reference within a *'for next loop'*.
 
 
 ## 2. Cabinet Notifcations Document Set-Up
@@ -74,7 +74,7 @@ The script was one of a series of streamlining projects undertaken to reduce rep
 
 ### Conclusion
 
-These projects represent some of the work that I completed while trying to stream-line processes at BDS Global. I collaborated with Senior Management, experienced Developers & multiple internal teams to take ideas from concept stages all the way through to internal launches.
+These projects represent some of the work that I completed while trying to streamline processes at BDS Global. I collaborated with Senior Management, experienced Developers & multiple internal teams to take ideas from concept stages all the way through to internal launches.
 
 If you would like to view some of my other projects that I worked on at BDS Global, please don't hesitate to ask:
 
